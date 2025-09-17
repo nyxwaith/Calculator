@@ -7,15 +7,17 @@
     box-sizing: border-box;
 }
 
+body{
+    background: #e3f9ff;
+}
+
 .title{
-    background-color: #e3f9ff;
     margin-left: 10px;  
 }
 
 .container{
     width: 100%;
     height: 100vh;
-    background: #e3f9ff;
     display: flex;
     justify-content: center;
     align-items: center;
