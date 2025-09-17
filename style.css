@@ -8,11 +8,16 @@
 }
 
 body{
-    background: #e3f9ff;
+    background: linear-gradient(135deg, #e3f9ff 0%, #bae8e8 100%);
 }
 
 .title{
-    margin-left: 10px;  
+    margin-left: 10px;
+    font-family: "Special Gothic Expanded One", cursive;
+    color: #22223b;
+    text-shadow: 2px 2px 10px #bae8e8;
+    letter-spacing: 2px;
+    margin-bottom: 25px;
 }
 
 .container{
